@@ -1,29 +1,5 @@
 //Name: Asmaa Hussein Omar
-//ID: 20231021
-//Section num: S15
-//filters : 2 , 5 ,8 ,11 , 14
 //email : asmaahlal123456789@gmail.com
-
-//Name: Amany Hussein Mousa
-//ID: 20231026
-//Section num: S15
-//filters : 3 - 6 - 9 -12 - 13
-//email : amanyhussein2467@gmail.com
-
-//Name: Fatma Abd Elnaser Abd Elasis Marei
-//ID: 20230281
-//Section num: S15
-//filters :  1 - 4 - 7 - 10 -15
-//email : fatmaabdelnaser95@gmail.com
-
-//https://github.com/AsmaaHussein05/assignment3
-
-/*program description: Grayscale Conversion: Converts a colored image to grayscale by averaging the RGB channels.
-Black and White Conversion: Converts a colored image to black and white by setting pixel values to either black or
-white based on the average grayscale value.
-Invert Colors: Inverts the colors of a colored image by subtracting each color value from 255.
-Rotate Image: Allows users to rotate an image by 90, 180, or 270 degrees clockwise.
-Brighten and Darken: Provides options to either brighten or darken a colored image by adjusting pixel values accordingly.*/
 
 
 #include <iostream>
